@@ -1,0 +1,25 @@
+Reparar vehiculo
+-Recepcionar vehiculo
+-Registrar vehiculo
+-Proponer presupuesto
+-Aceptar presupuesto
+-Generar orden de trabajo
+-Comenzar reparación
+	-Anotar tarea
+	-Supervisar tarea
+-Facturar
+-Entregar vehiculo al cliente
+
+Gestionar aprovisionamiento y ventas
+-Realizar pedidos
+-Gestionar stock de almacen
+-Vender artículos de almacen
+
+Realizar consultas
+-Consultar estado reparación
+-Consultar facturas pagadas
+
+Planificar y controlar trabajos
+-Organizar reparaciones
+-Gestionar periodos vacacionales y bajas
+
